@@ -21,6 +21,8 @@ metadata:
     app: yelb-appserver
     tier: middletier
     allinpay
+    username robinwang
+    password kdjk#dsff!
 spec:
   type: ClusterIP
   ports:
